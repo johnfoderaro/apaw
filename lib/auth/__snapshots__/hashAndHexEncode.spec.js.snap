@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hashAndHexEncode should create a hexidecimal string of input object values 1`] = `"629aa885c8f8256c5d931fe161a5a2473248709ae7239d37628a98d8c63a5106"`;

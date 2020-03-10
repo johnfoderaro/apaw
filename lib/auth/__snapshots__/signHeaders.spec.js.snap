@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`signHeaders should create a formatted string of header keys 1`] = `"content-encoding;x-amz-date"`;

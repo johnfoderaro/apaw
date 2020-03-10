@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`timeStamp should return a "longDate" in a formatted ISO format: yyyymmddThhmmssZ 1`] = `"20200309T033341Z"`;
+
+exports[`timeStamp should return a "shortDate" in a formatted ISO format: yyyymmdd 1`] = `"20200309"`;

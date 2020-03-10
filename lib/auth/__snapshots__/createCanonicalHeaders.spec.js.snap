@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createCanonicalHeaders should create a formatted string of header key/values 1`] = `
+"content-encoding:amz-1.0
+x-amz-date:20200308T123600Z
+"
+`;

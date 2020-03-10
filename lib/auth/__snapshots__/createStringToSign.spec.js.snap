@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createStringToSign should create a formatted string of various request values 1`] = `
+"algorithm
+20200308T123600Z
+20200308/region/service/terminationString
+canonicalRequest"
+`;

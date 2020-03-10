@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`makeRequest should make an HTTP request and reject a promise 1`] = `[Error]`;
+
+exports[`makeRequest should make an HTTP request and resolve a promise 1`] = `"somedata"`;
